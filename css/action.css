@@ -1,0 +1,11 @@
+/* верстка блока action */
+
+.action {
+  padding: 40px 0;
+  background: #f2f2f2;
+}
+
+.action-image {
+  width: 200px;
+  height: auto;
+}
